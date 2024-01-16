@@ -73,7 +73,7 @@ nav ul {
   nav ul {
     position: fixed;
     left: -100%;
-    top: 8.1%;
+    top: 61px;
     flex-direction: column;
     justify-content: space-around;
     background: #3a556ab1;
