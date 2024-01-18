@@ -23,4 +23,5 @@ window.addEventListener("scroll", (e) => {
     nav.style.top = "0px";
     nav.style.opacity = "1";
   }
+  lastScrollPosition = window.scrollY;
 });
